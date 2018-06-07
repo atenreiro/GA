@@ -1,4 +1,4 @@
-# Final Project 
+# Final Project (Wine Quality Predictor)
 
 ## 1. Introduction
 
