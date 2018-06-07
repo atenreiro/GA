@@ -21,7 +21,7 @@ The original idea for this project came from the [Analytics Vidhya blog](https:/
 
 ## 2. The Dataset
 
-I have two data sets from Red/White wines each containing the chemical laboratory quantification and the respective overall quality (assessed by wine experts) for respectively 1599 (Red) and 4898 (White) different wines.
+I have two data sets (Red/White) containing the chemical properties (by lab) and the respective overall quality (assessed by wine experts) for respectively 1599 Red and 4898 White wines.
 
 The data sets contain the following information:
 
