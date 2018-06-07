@@ -34,4 +34,5 @@ The data sets contain the following information:
 
 Data set link: [Kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
-
+**1.4) Original Idea**
+The original idea for this project came from the [Analytics Vidhya blog](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/) with ideas for Machine Learning Projects.
