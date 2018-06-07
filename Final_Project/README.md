@@ -6,7 +6,13 @@
 **1.1) Problem Statement**
 Predict the quality of wine based on chemical properties.
 
-**1.2) Data Set**
+**1.2) Use Cases**
+The machine learn algorithm can help wineries during the maturity process of the wine to balance certain chemicals in order to improve the wine quality. 
+
+**1.3) Exclusions** 
+There are other features important to consider when producing wine that are not contemplated on this study such season weather, soil conditions, harvest date, aging, grape type, etc. 
+
+**1.4) Data Set**
 I have two data sets from Red/White wines each containing the chemical laboratory quantification and the respective overall quality (assessed by wine experts) for respectively 1599 (Red) and 4898 (White) different wines.
 
 The data sets contain the following information:
