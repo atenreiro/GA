@@ -15,7 +15,11 @@ The machine learn algorithm can help wineries during the maturity process of the
 
 There are other features important to consider when producing wine that are not contemplated on this study such season weather, soil conditions, harvest date, aging, grape type, etc. 
 
-**1.4) Data Set**
+**1.4) Original Idea**
+
+The original idea for this project came from the [Analytics Vidhya blog](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/) with ideas for Machine Learning Projects.
+
+## 2. The Dataset
 
 I have two data sets from Red/White wines each containing the chemical laboratory quantification and the respective overall quality (assessed by wine experts) for respectively 1599 (Red) and 4898 (White) different wines.
 
@@ -38,6 +42,4 @@ The data sets contain the following information:
 
 Data set link: [Kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
-**1.4) Original Idea**
 
-The original idea for this project came from the [Analytics Vidhya blog](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/) with ideas for Machine Learning Projects.
