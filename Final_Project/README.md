@@ -1,3 +1,4 @@
+![](http://www.forkscorksandkegs.com/wp-content/uploads/2012/06/Banner-Vineyard-927x282.png)
 # Final Project (Wine Quality Predictor)
 
 ## 1. Introduction
