@@ -17,7 +17,7 @@ There are other features important to consider when producing wine that are not 
 
 **1.4) Original Idea**
 
-The original idea for this project came from the [Analytics Vidhya blog](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/) with ideas for Machine Learning Projects.
+The original idea for this project came from the [Analytics Vidhya blog](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/) post containing ideas for Machine Learning Projects.
 
 ## 2. The Dataset
 
