@@ -40,6 +40,6 @@ The data sets contain the following information:
 |Alcohol|The percent alcohol content of the wine.
 |Quality|The overall quality of the wine classified by a wine expert.
 
-Data set link: [Kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+Data set link: [Here](https://github.com/atenreiro/GA/tree/master/Final_Project/datasets)
 
 
